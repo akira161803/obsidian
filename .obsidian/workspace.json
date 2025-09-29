@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "21e4830eba901f23",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5de47ef8525de97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6822b8fbbd7fe2cf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking/WSA.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "WSA"
+            }
+          },
+          {
+            "id": "76d91e91611364bc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          },
+          {
+            "id": "c92435d221893e6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル"
+            }
+          },
+          {
+            "id": "c2651853909a4025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking/Weak isolation on dual-use endpoint.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weak isolation on dual-use endpoint"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d803273a0fe5bf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "13c873f4c9110d98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d439f578f19f3a01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "e3b4011dbb8eeeae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "3cbfb5daafc0d715",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          },
+          {
+            "id": "219bf4b9af5cfd23",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2a78b55549d205e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "31ed8cd49ee35d68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4f72c6ac44c43f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "無題のファイル.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "無題のファイルへのバックリンク"
+            }
+          },
+          {
+            "id": "23d67178f9a9447a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "無題のファイル.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "無題のファイルからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "a42fce3eb26247c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "2a412ffb186c7399",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hacking/無題のファイル.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "無題のファイルのアウトライン"
+            }
+          },
+          {
+            "id": "044810381d761dde",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 711.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "local-backup:Run local backup": true,
+      "switcher:クイックスイッチャーを開く": true,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": true,
+      "daily-notes:今日のデイリーノートを開く": true,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": true,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c92435d221893e6e",
+  "lastOpenFiles": [
+    "無題のファイル.md",
+    "Hacking/WSA.md",
+    "Hacking/Weak isolation on dual-use endpoint.md",
+    "ReadItLater Inbox/Article.md",
+    "ReadItLater Inbox/SQL injection cheat sheet  Web Security Academy.md",
+    "Hacking/Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped.md",
+    "ReadItLater Inbox",
+    "Hacking/Low-level logic flaw.md",
+    "template/Link File.md",
+    "Hacking/SQL.md",
+    "English/Sentences.md",
+    "English/Idioms.md",
+    "English/English.md",
+    "Hacking/Path Traversal 1.md",
+    "Hacking/Path Traversal.md",
+    "Hacking/Blind SQL injection by triggering conditional errors.md",
+    "Hacking/HTTP Header.md",
+    "Commands.md",
+    "Hacking/Authentication bypass via encryption oracle.md",
+    "Hacking/Burp.md",
+    "Hacking/CTF Tips.md",
+    "nslookup.md",
+    "template/タイトル.md",
+    "Hacking/OS Command Injection.md",
+    "Hacking/Information Disclosure.md",
+    "Hacking/Authentication bypass via information disclosure.md",
+    "Hacking/Business Logic Vulnerabilities.md",
+    "English",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "template",
+    "Hacking",
+    "CTF/無題のファイル 1.base",
+    "CTF/無題のファイル 2.base",
+    "CTF/無題のファイル.base",
+    "Hacking"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "recentFiles": [
+    {
+      "basename": "無題のファイル",
+      "path": "無題のファイル.md"
+    },
+    {
+      "basename": "WSA",
+      "path": "Hacking/WSA.md"
+    },
+    {
+      "basename": "Weak isolation on dual-use endpoint",
+      "path": "Hacking/Weak isolation on dual-use endpoint.md"
+    },
+    {
+      "basename": "Article",
+      "path": "ReadItLater Inbox/Article.md"
+    },
+    {
+      "basename": "SQL injection cheat sheet  Web Security Academy",
+      "path": "ReadItLater Inbox/SQL injection cheat sheet  Web Security Academy.md"
+    },
+    {
+      "basename": "Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped",
+      "path": "Hacking/Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

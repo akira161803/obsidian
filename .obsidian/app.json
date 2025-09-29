@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "template/",
+    "copilot/"
+  ],
+  "useMarkdownLinks": true,
+  "showLineNumber": false,
+  "readableLineLength": true
+}
