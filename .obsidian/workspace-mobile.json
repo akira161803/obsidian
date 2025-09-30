@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "5dbc4ddf777119c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "12d5ca4f1dc330b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fe3866100e43acd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4b6fc8513e60e80",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9fc65866af394ae6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "0222484a3912d485",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d7514db2695288b2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "735fe0616e0bfa72",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0f39d964580e890e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "df90197004149f22",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "4768ca764207bb30",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "a5b959d2d140a792",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5fe3866100e43acd",
+  "lastOpenFiles": [
+    "macのバックアップ.md",
+    "robots.txt.md",
+    "nslookup.md",
+    "English/Sentences.md",
+    "English/Idioms.md",
+    "English/English.md",
+    "English",
+    "template/Link File.md",
+    "template/タイトル.md",
+    "template",
+    "ReadItLater Inbox/SQL injection cheat sheet  Web Security Academy.md",
+    "ReadItLater Inbox/Article.md",
+    "ReadItLater Inbox",
+    "Commands.md",
+    "Hacking/Web shell upload via obfuscated file extension.md",
+    "Hacking/クエリについて.md",
+    "Hacking/CTF Tips.md",
+    "Hacking/SQL.md",
+    "Hacking/File Upload Vulnerabilities.md",
+    "Hacking/XSS Sink.md",
+    "Hacking/Burp.md",
+    "Hacking/HTTP Header.md",
+    "Hacking/WSA.md",
+    "Hacking/Blind OS command injection with time delays.md",
+    "Hacking/Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped.md",
+    "Hacking/Information Disclosure.md",
+    "Hacking/Web shell upload via path traversal.md",
+    "Hacking/CORS vulnerability with trusted insecure protocols.md",
+    "Hacking/Webshells.md",
+    "Hacking",
+    "copilot/copilot-custom-prompts",
+    "copilot"
+  ]
+}
